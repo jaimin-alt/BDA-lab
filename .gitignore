@@ -8,7 +8,7 @@ datasets/
 
 # Large text files
 *.txt
-
+*:Zone.Identifier
 # Spark generated files
 spark-warehouse/
 .metastore_db/
