@@ -1,0 +1,21 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets (ignore everywhere)
+*.csv
+data/
+datasets/
+
+# Large text files
+*.txt
+
+# Spark generated files
+spark-warehouse/
+.metastore_db/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor junk
+.DS_Store
