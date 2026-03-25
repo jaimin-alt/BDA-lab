@@ -5,6 +5,8 @@
 *.csv
 data/
 datasets/
+*.avro
+*.json
 
 # Large text files
 *.txt
